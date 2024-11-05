@@ -81,4 +81,3 @@ To learn more about React Native, take a look at the following resources:
 =======
 # HumanWallet
 self-custody wallet for the normal person
->>>>>>> f60c523eda90bb973a70bc203e14fa91a0445605
