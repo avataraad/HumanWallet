@@ -82,7 +82,7 @@ interface Asset {
           <View style={styles.header}>
             <View style={styles.profileContainer}>
               <Image
-                source={profileImage ? { uri: profileImage } : require('./assets/default-avatar.png')}
+                source={require('../assets/default-avatar.png')}
                 style={styles.profileImage}
               />
               <Text style={styles.username}>{username}</Text>
